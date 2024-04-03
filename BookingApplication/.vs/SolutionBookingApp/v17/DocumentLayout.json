@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marij\\Desktop\\BookingApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F18148-27CE-4B39-B1AA-753B6766B868}|BookingApplication\\BookingApplication.csproj|c:\\users\\marij\\desktop\\bookingapplication\\bookingapplication\\controllers\\bookinglistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F18148-27CE-4B39-B1AA-753B6766B868}|BookingApplication\\BookingApplication.csproj|solutionrelative:bookingapplication\\controllers\\bookinglistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F18148-27CE-4B39-B1AA-753B6766B868}|BookingApplication\\BookingApplication.csproj|c:\\users\\marij\\desktop\\bookingapplication\\bookingapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F18148-27CE-4B39-B1AA-753B6766B868}|BookingApplication\\BookingApplication.csproj|solutionrelative:bookingapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F18148-27CE-4B39-B1AA-753B6766B868}|BookingApplication\\BookingApplication.csproj|c:\\users\\marij\\desktop\\bookingapplication\\bookingapplication\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F18148-27CE-4B39-B1AA-753B6766B868}|BookingApplication\\BookingApplication.csproj|solutionrelative:bookingapplication\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\Desktop\\BookingApplication\\BookingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BookingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\marij\\Desktop\\BookingApplication\\BookingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BookingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAswIIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:59:19.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\Desktop\\BookingApplication\\BookingApplication\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "BookingApplication\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\marij\\Desktop\\BookingApplication\\BookingApplication\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "BookingApplication\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAMUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:34:34.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingListsController.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\Desktop\\BookingApplication\\BookingApplication\\Controllers\\BookingListsController.cs",
+              "RelativeDocumentMoniker": "BookingApplication\\Controllers\\BookingListsController.cs",
+              "ToolTip": "C:\\Users\\marij\\Desktop\\BookingApplication\\BookingApplication\\Controllers\\BookingListsController.cs",
+              "RelativeToolTip": "BookingApplication\\Controllers\\BookingListsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:10:33.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
