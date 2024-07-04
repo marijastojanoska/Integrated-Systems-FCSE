@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davor\\OneDrive\\Desktop\\Lab5_GrupaB\\integrated_systems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\davor\\onedrive\\desktop\\lab5_grupab\\integrated_systems\\eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\davor\\OneDrive\\Desktop\\Lab5_GrupaB\\integrated_systems\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\davor\\OneDrive\\Desktop\\Lab5_GrupaB\\integrated_systems\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\API\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:22:07.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
